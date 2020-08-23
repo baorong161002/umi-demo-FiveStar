@@ -1,0 +1,21 @@
+.addCommodity{
+    background-color: #ced5da;
+    width: 100%;
+    height: 40px;
+    margin-top: 8px;
+    padding: 5px;
+}
+.SearchCommodity{
+    background-color: #ced5da;
+    width: 100%;
+    height: 40px;
+    margin-top: 12px;
+    padding: 10px;
+}
+.Commodity{
+    background-color: #0085e0;
+    width: 100%;
+    height: 40px;
+    margin-top: 0px;
+    padding: 10px;
+}

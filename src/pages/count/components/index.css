@@ -1,0 +1,71 @@
+#title{
+    text-align: center;
+    width: 260px;
+}
+/* #before{
+    outline: none;
+    width: 220px;
+    height:40px;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: right;
+    border: 2px solid black;
+    
+}
+#after{
+    outline: none;
+    caret-color: transparent;
+    width: 220px;
+    height:40px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: right;
+} */
+/* .buttons{
+    width: 40px;
+    border-radius: 20px;
+    border:2px solid rgb(235, 252, 7);
+    margin-left: 10px;
+    background-color: white;
+    outline: none;
+ 
+    box-shadow: none;
+} */
+.but{
+    width: 40px;
+    border-radius: 25px;
+    border:2px solid rgb(209, 255, 124);
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(183, 235, 255);
+    outline: none;
+    box-shadow: none;
+}
+.result{
+    margin-left: 10px;
+}
+.clean{
+    width: 40px;
+    border-radius: 25px;
+    border:2px solid rgb(179, 138, 3);
+    margin-left: 10px;
+    background-color: rgb(253, 86, 86);
+    outline: none;
+    box-shadow: none;
+}
+#root_container{
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 260px;
+    height: 330px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#counter_number{
+    margin-top: 30px;
+    margin-left: 25px;
+}

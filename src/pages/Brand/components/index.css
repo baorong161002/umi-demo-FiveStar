@@ -1,0 +1,15 @@
+.brand-table{
+    width: 800px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 10px;
+}
+.brand-context{
+    width: 800px;
+    margin-top: 5%;
+
+}
+.headerButton{
+    float: right;
+}
